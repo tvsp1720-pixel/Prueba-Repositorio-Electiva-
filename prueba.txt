@@ -4,4 +4,8 @@ Estamo viendo ramas en git
 
 Son las 10 pm
 
+<<<<<<< HEAD
 Son las 10 :11 
+=======
+son las 10 y 13 
+>>>>>>> pruebas
